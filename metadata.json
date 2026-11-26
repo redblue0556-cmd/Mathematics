@@ -1,0 +1,6 @@
+{
+  "name": "MathMaster Pro",
+  "description": "Aplikasi edukasi matematika interaktif bergaya Shonen Manga dengan 100 soal, generator soal offline, dan lab visualisasi rumus lingkaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

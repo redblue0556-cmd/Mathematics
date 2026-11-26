@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MathMaster Pro</string>
+    <string name="cover_subtitle">CHAPTER: FUNGSI &amp; LINGKARAN</string>
+    <string name="cover_cta_start">Mulai Belajar</string>
+    <string name="lobby_back_home">Kembali ke Lobi</string>
+    <string name="lobby_ai_generator_title">AI Smart Question Generator</string>
+    <string name="lobby_ai_generator_cta">Buat Soal Baru</string>
+    <string name="lobby_formula_lab_title">Lab Rumus &amp; Kalkulator Interaktif</string>
+    <string name="quiz_wrong_header">Belum Tepat! Mari kita bedah panel penyelesaiannya:</string>
+    <string name="quiz_correct_sfx">BENAR! (+100 XP)</string>
+    <string name="explain_step_diketahui">1. Diketahui</string>
+    <string name="explain_step_rumus">2. Rumus Utama</string>
+    <string name="explain_step_langkah">3. Langkah Pengerjaan</string>
+    <string name="explain_step_tips">4. Catatan / Tips Manga</string>
+</resources>
